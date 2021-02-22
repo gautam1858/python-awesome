@@ -1,4 +1,5 @@
 # python-awesome
+
 Learn Python, Easy to learn, Awesome
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gautam1858/python-awesome)
